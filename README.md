@@ -3,7 +3,7 @@ my neovim config
 
 ### Basic Neovim configuration:
 
-#### Arch:
+#### ArchDWM:
 ~/.config/nvim/init.lua
 
 #### Win11:
